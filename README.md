@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header.png" alt="Header Image" width="100%"/>
-</p>
 
-<h1 align="center">Hey there, awesome dev! 👋 I'm Nathaniel.</h1>
+
+<h1 align="center">Hi 👋 I'm Nathaniel.</h1>
 
 <p align="center">
   A passionate software engineer building robust applications and crafting seamless user experiences. I love diving deep into new tech and solving complex problems with elegant solutions.
@@ -14,10 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/export-default-nathaniel?tab=repositories">
-    <img src="https://img.shields.io/github/stars/export-default-nathaniel?style=for-the-badge&color=brightgreen&label=My%20Repos%20⭐" alt="GitHub Repositories" />
   </a>
   <a href="https://github.com/export-default-nathaniel/export-default-nathaniel/fork">
-    <img src="https://img.shields.io/github/forks/export-default-nathaniel/export-default-nathaniel?style=for-the-badge&color=blue&label=Fork%20Me%20!%20🍴" alt="Fork Me" />
   </a>
 </p>
 
