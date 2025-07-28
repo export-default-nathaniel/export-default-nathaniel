@@ -8,18 +8,7 @@
 
 ---
 
-### 🚀 My Digital Playground:
-
-<p align="center">
-  <a href="https://github.com/export-default-nathaniel?tab=repositories">
-  </a>
-  <a href="https://github.com/export-default-nathaniel/export-default-nathaniel/fork">
-  </a>
-</p>
-
----
-
-### 🛠️ Tech I'm Grooving With:
+### 🛠️ Tech I'm work With:
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
